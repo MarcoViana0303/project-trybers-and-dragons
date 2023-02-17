@@ -5,4 +5,4 @@ import Elf from './Elf';
 import Dwarf from './Dwarf';
 
 export default Race;
-export {Orc, Halfling, Elf, Dwarf};
+export { Orc, Halfling, Elf, Dwarf };
